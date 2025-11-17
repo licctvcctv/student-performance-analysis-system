@@ -1,0 +1,1001 @@
+﻿student_id,name,gender,race_ethnicity,parental_education,lunch,test_preparation_course,age,major
+S0001,Student001,female,group B,bachelor's degree,standard,none,18,信息管理与信息系统
+S0002,Student002,female,group C,some college,standard,completed,21,网络工程
+S0003,Student003,female,group B,master's degree,standard,none,20,网络工程
+S0004,Student004,male,group A,associate's degree,free/reduced,none,18,计算机科学与技术
+S0005,Student005,male,group C,some college,standard,none,22,计算机科学与技术
+S0006,Student006,female,group B,associate's degree,standard,none,19,网络工程
+S0007,Student007,female,group B,some college,standard,completed,19,大数据技术
+S0008,Student008,male,group B,some college,free/reduced,none,18,网络工程
+S0009,Student009,male,group D,high school,free/reduced,completed,19,计算机科学与技术
+S0010,Student010,female,group B,high school,free/reduced,none,18,软件工程
+S0011,Student011,male,group C,associate's degree,standard,none,19,网络工程
+S0012,Student012,male,group D,associate's degree,standard,none,22,网络工程
+S0013,Student013,female,group B,high school,standard,none,20,大数据技术
+S0014,Student014,male,group A,some college,standard,completed,22,软件工程
+S0015,Student015,female,group A,master's degree,standard,none,20,大数据技术
+S0016,Student016,female,group C,some high school,standard,none,19,计算机科学与技术
+S0017,Student017,male,group C,high school,standard,none,21,大数据技术
+S0018,Student018,female,group B,some high school,free/reduced,none,22,信息管理与信息系统
+S0019,Student019,male,group C,master's degree,free/reduced,completed,22,网络工程
+S0020,Student020,female,group C,associate's degree,free/reduced,none,22,网络工程
+S0021,Student021,male,group D,high school,standard,none,18,信息管理与信息系统
+S0022,Student022,female,group B,some college,free/reduced,completed,20,计算机科学与技术
+S0023,Student023,male,group D,some college,standard,none,19,网络工程
+S0024,Student024,female,group C,some high school,standard,none,19,大数据技术
+S0025,Student025,male,group D,bachelor's degree,free/reduced,completed,19,软件工程
+S0026,Student026,male,group A,master's degree,free/reduced,none,22,计算机科学与技术
+S0027,Student027,male,group B,some college,standard,none,21,软件工程
+S0028,Student028,female,group C,bachelor's degree,standard,none,19,大数据技术
+S0029,Student029,male,group C,high school,standard,none,20,软件工程
+S0030,Student030,female,group D,master's degree,standard,none,21,计算机科学与技术
+S0031,Student031,female,group D,some college,standard,none,18,软件工程
+S0032,Student032,female,group B,some college,standard,none,21,网络工程
+S0033,Student033,female,group E,master's degree,free/reduced,none,20,软件工程
+S0034,Student034,male,group D,some college,standard,none,22,网络工程
+S0035,Student035,male,group E,some college,standard,none,21,信息管理与信息系统
+S0036,Student036,male,group E,associate's degree,standard,completed,19,网络工程
+S0037,Student037,female,group D,associate's degree,standard,none,22,网络工程
+S0038,Student038,female,group D,some high school,free/reduced,none,21,网络工程
+S0039,Student039,female,group D,associate's degree,free/reduced,completed,19,计算机科学与技术
+S0040,Student040,male,group B,associate's degree,free/reduced,none,20,软件工程
+S0041,Student041,male,group C,associate's degree,free/reduced,none,21,网络工程
+S0042,Student042,female,group C,associate's degree,standard,none,19,信息管理与信息系统
+S0043,Student043,female,group B,associate's degree,standard,none,19,大数据技术
+S0044,Student044,male,group B,some college,free/reduced,completed,18,软件工程
+S0045,Student045,female,group E,associate's degree,free/reduced,none,18,大数据技术
+S0046,Student046,male,group B,associate's degree,standard,none,20,信息管理与信息系统
+S0047,Student047,female,group A,associate's degree,standard,completed,18,网络工程
+S0048,Student048,female,group C,high school,standard,none,20,软件工程
+S0049,Student049,female,group D,associate's degree,free/reduced,completed,20,计算机科学与技术
+S0050,Student050,male,group C,high school,standard,completed,18,网络工程
+S0051,Student051,male,group E,some college,standard,none,19,信息管理与信息系统
+S0052,Student052,male,group E,associate's degree,free/reduced,completed,18,信息管理与信息系统
+S0053,Student053,male,group C,some college,standard,none,18,计算机科学与技术
+S0054,Student054,male,group D,high school,standard,none,20,软件工程
+S0055,Student055,female,group C,some high school,free/reduced,completed,18,大数据技术
+S0056,Student056,female,group C,high school,free/reduced,none,21,网络工程
+S0057,Student057,female,group E,associate's degree,standard,completed,19,计算机科学与技术
+S0058,Student058,male,group D,associate's degree,standard,none,22,软件工程
+S0059,Student059,male,group D,some college,standard,completed,18,计算机科学与技术
+S0060,Student060,female,group C,some high school,free/reduced,none,21,信息管理与信息系统
+S0061,Student061,male,group E,bachelor's degree,free/reduced,completed,20,计算机科学与技术
+S0062,Student062,male,group A,some high school,free/reduced,none,22,大数据技术
+S0063,Student063,male,group A,associate's degree,free/reduced,none,21,信息管理与信息系统
+S0064,Student064,female,group C,associate's degree,standard,none,22,大数据技术
+S0065,Student065,female,group D,some high school,standard,none,20,计算机科学与技术
+S0066,Student066,male,group B,some high school,standard,none,19,信息管理与信息系统
+S0067,Student067,male,group D,some high school,free/reduced,none,18,大数据技术
+S0068,Student068,female,group C,some college,standard,none,22,软件工程
+S0069,Student069,male,group B,associate's degree,free/reduced,none,19,软件工程
+S0070,Student070,female,group C,associate's degree,standard,none,21,大数据技术
+S0071,Student071,female,group D,some college,free/reduced,completed,20,大数据技术
+S0072,Student072,male,group D,some college,standard,completed,19,计算机科学与技术
+S0073,Student073,female,group A,associate's degree,free/reduced,none,20,软件工程
+S0074,Student074,male,group C,some high school,free/reduced,none,21,大数据技术
+S0075,Student075,male,group C,some high school,standard,none,20,网络工程
+S0076,Student076,male,group B,associate's degree,free/reduced,none,22,大数据技术
+S0077,Student077,male,group E,some high school,standard,none,22,信息管理与信息系统
+S0078,Student078,male,group A,bachelor's degree,standard,completed,19,大数据技术
+S0079,Student079,female,group D,some high school,standard,completed,20,计算机科学与技术
+S0080,Student080,female,group E,master's degree,standard,none,20,软件工程
+S0081,Student081,female,group B,associate's degree,standard,none,20,信息管理与信息系统
+S0082,Student082,male,group B,high school,free/reduced,none,18,软件工程
+S0083,Student083,male,group A,some college,free/reduced,completed,19,计算机科学与技术
+S0084,Student084,male,group E,associate's degree,standard,none,20,软件工程
+S0085,Student085,male,group D,high school,free/reduced,none,22,计算机科学与技术
+S0086,Student086,female,group C,some college,standard,none,19,大数据技术
+S0087,Student087,female,group C,some college,free/reduced,none,21,信息管理与信息系统
+S0088,Student088,female,group D,associate's degree,standard,none,21,大数据技术
+S0089,Student089,female,group A,some college,standard,none,22,信息管理与信息系统
+S0090,Student090,female,group D,some high school,standard,none,18,大数据技术
+S0091,Student091,female,group C,bachelor's degree,standard,none,21,信息管理与信息系统
+S0092,Student092,male,group C,high school,free/reduced,none,19,网络工程
+S0093,Student093,male,group C,high school,standard,none,20,软件工程
+S0094,Student094,male,group C,associate's degree,free/reduced,completed,18,网络工程
+S0095,Student095,female,group B,some college,standard,none,21,计算机科学与技术
+S0096,Student096,male,group C,associate's degree,free/reduced,completed,18,信息管理与信息系统
+S0097,Student097,male,group B,some high school,standard,completed,19,网络工程
+S0098,Student098,female,group E,some college,standard,completed,20,大数据技术
+S0099,Student099,female,group D,some college,free/reduced,none,21,信息管理与信息系统
+S0100,Student100,female,group D,bachelor's degree,standard,none,20,大数据技术
+S0101,Student101,male,group B,some college,standard,none,22,大数据技术
+S0102,Student102,male,group D,bachelor's degree,standard,completed,18,信息管理与信息系统
+S0103,Student103,female,group D,associate's degree,standard,none,19,网络工程
+S0104,Student104,male,group B,high school,standard,completed,19,计算机科学与技术
+S0105,Student105,male,group C,some college,standard,completed,19,大数据技术
+S0106,Student106,female,group C,some college,standard,none,18,信息管理与信息系统
+S0107,Student107,female,group D,master's degree,standard,none,20,大数据技术
+S0108,Student108,male,group E,associate's degree,standard,completed,19,软件工程
+S0109,Student109,female,group B,associate's degree,free/reduced,none,20,计算机科学与技术
+S0110,Student110,female,group B,some high school,standard,none,20,网络工程
+S0111,Student111,female,group D,associate's degree,free/reduced,completed,19,计算机科学与技术
+S0112,Student112,male,group C,high school,standard,none,20,大数据技术
+S0113,Student113,male,group A,associate's degree,standard,none,20,软件工程
+S0114,Student114,female,group D,some college,standard,none,22,计算机科学与技术
+S0115,Student115,female,group E,bachelor's degree,standard,completed,18,信息管理与信息系统
+S0116,Student116,male,group C,high school,standard,none,21,计算机科学与技术
+S0117,Student117,female,group B,bachelor's degree,free/reduced,none,18,大数据技术
+S0118,Student118,female,group D,bachelor's degree,standard,none,19,计算机科学与技术
+S0119,Student119,female,group D,some high school,standard,none,20,大数据技术
+S0120,Student120,female,group C,some college,standard,none,22,大数据技术
+S0121,Student121,female,group C,bachelor's degree,standard,completed,19,信息管理与信息系统
+S0122,Student122,male,group B,associate's degree,standard,completed,20,网络工程
+S0123,Student123,female,group C,some college,standard,completed,20,网络工程
+S0124,Student124,male,group D,high school,free/reduced,none,21,软件工程
+S0125,Student125,male,group E,some college,standard,none,19,网络工程
+S0126,Student126,female,group B,high school,standard,none,20,计算机科学与技术
+S0127,Student127,male,group B,some high school,standard,none,22,网络工程
+S0128,Student128,male,group D,some college,standard,completed,20,大数据技术
+S0129,Student129,male,group D,master's degree,standard,none,22,软件工程
+S0130,Student130,female,group A,bachelor's degree,standard,none,19,信息管理与信息系统
+S0131,Student131,male,group D,master's degree,standard,none,20,软件工程
+S0132,Student132,male,group C,some high school,free/reduced,completed,18,大数据技术
+S0133,Student133,male,group E,some college,free/reduced,completed,20,计算机科学与技术
+S0134,Student134,female,group C,some college,standard,completed,20,信息管理与信息系统
+S0135,Student135,male,group D,bachelor's degree,free/reduced,completed,20,大数据技术
+S0136,Student136,male,group C,bachelor's degree,standard,none,21,网络工程
+S0137,Student137,male,group B,some high school,standard,completed,20,计算机科学与技术
+S0138,Student138,male,group E,high school,standard,none,22,信息管理与信息系统
+S0139,Student139,female,group C,associate's degree,standard,none,20,网络工程
+S0140,Student140,male,group D,some college,standard,completed,20,网络工程
+S0141,Student141,female,group D,some high school,standard,none,22,网络工程
+S0142,Student142,female,group C,some college,free/reduced,none,20,大数据技术
+S0143,Student143,female,group E,some college,free/reduced,completed,19,软件工程
+S0144,Student144,male,group A,high school,standard,none,20,大数据技术
+S0145,Student145,male,group D,some college,standard,none,20,软件工程
+S0146,Student146,female,group C,some college,free/reduced,none,20,大数据技术
+S0147,Student147,male,group B,some high school,standard,none,20,软件工程
+S0148,Student148,male,group C,associate's degree,free/reduced,none,20,信息管理与信息系统
+S0149,Student149,female,group D,bachelor's degree,standard,completed,22,信息管理与信息系统
+S0150,Student150,male,group E,associate's degree,free/reduced,completed,18,软件工程
+S0151,Student151,male,group A,some high school,standard,completed,22,网络工程
+S0152,Student152,male,group A,bachelor's degree,standard,none,20,软件工程
+S0153,Student153,female,group B,associate's degree,standard,completed,19,大数据技术
+S0154,Student154,male,group D,bachelor's degree,standard,none,21,计算机科学与技术
+S0155,Student155,male,group D,some high school,standard,none,18,大数据技术
+S0156,Student156,female,group C,some college,standard,completed,21,计算机科学与技术
+S0157,Student157,female,group E,high school,free/reduced,completed,18,信息管理与信息系统
+S0158,Student158,male,group B,some college,free/reduced,none,20,信息管理与信息系统
+S0159,Student159,female,group B,associate's degree,standard,completed,19,网络工程
+S0160,Student160,male,group D,associate's degree,free/reduced,none,19,网络工程
+S0161,Student161,male,group B,associate's degree,free/reduced,completed,20,信息管理与信息系统
+S0162,Student162,female,group E,some college,free/reduced,completed,18,大数据技术
+S0163,Student163,male,group B,master's degree,free/reduced,none,22,计算机科学与技术
+S0164,Student164,male,group C,high school,standard,none,21,软件工程
+S0165,Student165,female,group E,master's degree,standard,none,22,信息管理与信息系统
+S0166,Student166,female,group C,bachelor's degree,standard,completed,18,信息管理与信息系统
+S0167,Student167,male,group C,high school,free/reduced,completed,18,软件工程
+S0168,Student168,female,group B,master's degree,free/reduced,completed,20,网络工程
+S0169,Student169,female,group B,high school,standard,completed,22,计算机科学与技术
+S0170,Student170,female,group C,some college,free/reduced,completed,19,大数据技术
+S0171,Student171,male,group A,high school,standard,completed,19,软件工程
+S0172,Student172,male,group E,some high school,standard,none,22,大数据技术
+S0173,Student173,female,group D,some college,standard,none,18,信息管理与信息系统
+S0174,Student174,female,group C,associate's degree,standard,none,22,网络工程
+S0175,Student175,female,group C,bachelor's degree,free/reduced,completed,18,信息管理与信息系统
+S0176,Student176,female,group C,master's degree,standard,completed,19,网络工程
+S0177,Student177,female,group B,high school,free/reduced,completed,19,计算机科学与技术
+S0178,Student178,female,group C,associate's degree,standard,completed,22,大数据技术
+S0179,Student179,female,group B,master's degree,free/reduced,completed,22,计算机科学与技术
+S0180,Student180,female,group D,some high school,standard,completed,19,网络工程
+S0181,Student181,male,group C,master's degree,free/reduced,completed,19,大数据技术
+S0182,Student182,female,group C,some college,free/reduced,none,22,计算机科学与技术
+S0183,Student183,female,group E,high school,standard,none,19,网络工程
+S0184,Student184,female,group D,associate's degree,standard,none,21,大数据技术
+S0185,Student185,male,group C,some high school,free/reduced,completed,22,软件工程
+S0186,Student186,male,group C,associate's degree,free/reduced,completed,21,计算机科学与技术
+S0187,Student187,male,group E,high school,standard,none,21,计算机科学与技术
+S0188,Student188,male,group D,some high school,standard,completed,19,软件工程
+S0189,Student189,male,group B,some high school,free/reduced,none,20,计算机科学与技术
+S0190,Student190,female,group C,bachelor's degree,standard,none,18,软件工程
+S0191,Student191,female,group E,associate's degree,standard,none,18,大数据技术
+S0192,Student192,male,group D,some college,standard,completed,20,计算机科学与技术
+S0193,Student193,female,group B,some high school,standard,none,19,信息管理与信息系统
+S0194,Student194,male,group D,some college,standard,completed,18,大数据技术
+S0195,Student195,female,group C,master's degree,standard,completed,20,计算机科学与技术
+S0196,Student196,male,group D,associate's degree,standard,none,22,软件工程
+S0197,Student197,male,group C,some high school,free/reduced,completed,19,网络工程
+S0198,Student198,male,group E,high school,free/reduced,none,18,计算机科学与技术
+S0199,Student199,female,group B,some college,free/reduced,none,22,计算机科学与技术
+S0200,Student200,female,group B,bachelor's degree,free/reduced,none,18,软件工程
+S0201,Student201,female,group C,associate's degree,standard,completed,20,信息管理与信息系统
+S0202,Student202,female,group D,some college,free/reduced,none,20,计算机科学与技术
+S0203,Student203,male,group C,associate's degree,standard,none,20,大数据技术
+S0204,Student204,female,group B,associate's degree,standard,none,20,网络工程
+S0205,Student205,male,group C,some college,standard,none,18,信息管理与信息系统
+S0206,Student206,male,group D,some high school,standard,completed,22,网络工程
+S0207,Student207,male,group E,bachelor's degree,standard,none,18,软件工程
+S0208,Student208,male,group E,high school,standard,completed,18,软件工程
+S0209,Student209,female,group B,some college,free/reduced,none,22,大数据技术
+S0210,Student210,female,group B,some college,free/reduced,none,19,大数据技术
+S0211,Student211,male,group D,some high school,free/reduced,completed,20,计算机科学与技术
+S0212,Student212,male,group C,some college,free/reduced,none,21,计算机科学与技术
+S0213,Student213,female,group C,high school,free/reduced,none,20,计算机科学与技术
+S0214,Student214,male,group C,associate's degree,free/reduced,completed,22,软件工程
+S0215,Student215,male,group E,high school,standard,completed,22,信息管理与信息系统
+S0216,Student216,male,group B,some high school,standard,completed,19,大数据技术
+S0217,Student217,female,group E,associate's degree,free/reduced,completed,21,计算机科学与技术
+S0218,Student218,female,group C,high school,free/reduced,none,21,软件工程
+S0219,Student219,male,group B,high school,free/reduced,none,19,网络工程
+S0220,Student220,male,group B,some high school,standard,completed,18,软件工程
+S0221,Student221,female,group D,high school,standard,completed,22,计算机科学与技术
+S0222,Student222,male,group B,associate's degree,standard,none,21,计算机科学与技术
+S0223,Student223,female,group C,some high school,free/reduced,none,19,网络工程
+S0224,Student224,male,group D,some high school,standard,none,19,计算机科学与技术
+S0225,Student225,female,group B,associate's degree,standard,completed,21,大数据技术
+S0226,Student226,female,group E,master's degree,free/reduced,none,19,计算机科学与技术
+S0227,Student227,female,group C,some college,standard,none,20,大数据技术
+S0228,Student228,male,group D,high school,standard,none,19,软件工程
+S0229,Student229,male,group A,some high school,free/reduced,none,21,信息管理与信息系统
+S0230,Student230,female,group C,some college,standard,completed,19,信息管理与信息系统
+S0231,Student231,male,group D,some college,standard,none,21,网络工程
+S0232,Student232,male,group C,associate's degree,standard,none,19,信息管理与信息系统
+S0233,Student233,female,group B,bachelor's degree,standard,none,21,网络工程
+S0234,Student234,male,group E,some high school,standard,none,21,软件工程
+S0235,Student235,male,group C,bachelor's degree,standard,completed,20,大数据技术
+S0236,Student236,male,group D,associate's degree,standard,none,20,信息管理与信息系统
+S0237,Student237,male,group D,bachelor's degree,free/reduced,none,18,信息管理与信息系统
+S0238,Student238,female,group D,some high school,standard,completed,21,计算机科学与技术
+S0239,Student239,male,group B,some college,standard,none,21,计算机科学与技术
+S0240,Student240,male,group C,associate's degree,standard,none,19,信息管理与信息系统
+S0241,Student241,male,group D,high school,free/reduced,completed,20,软件工程
+S0242,Student242,female,group E,bachelor's degree,standard,none,22,大数据技术
+S0243,Student243,female,group D,high school,standard,none,18,计算机科学与技术
+S0244,Student244,male,group E,some college,standard,none,20,大数据技术
+S0245,Student245,male,group D,some high school,standard,none,20,计算机科学与技术
+S0246,Student246,male,group C,associate's degree,standard,none,21,网络工程
+S0247,Student247,male,group E,associate's degree,standard,none,20,软件工程
+S0248,Student248,female,group B,high school,standard,completed,21,信息管理与信息系统
+S0249,Student249,female,group B,high school,standard,none,18,软件工程
+S0250,Student250,male,group C,high school,standard,none,18,网络工程
+S0251,Student251,male,group A,some high school,standard,completed,20,网络工程
+S0252,Student252,female,group D,some college,free/reduced,none,18,网络工程
+S0253,Student253,female,group B,some high school,standard,completed,18,大数据技术
+S0254,Student254,male,group D,master's degree,standard,none,20,计算机科学与技术
+S0255,Student255,male,group D,high school,standard,none,21,软件工程
+S0256,Student256,female,group E,some college,standard,none,20,信息管理与信息系统
+S0257,Student257,female,group C,associate's degree,free/reduced,none,22,信息管理与信息系统
+S0258,Student258,male,group C,associate's degree,standard,completed,19,软件工程
+S0259,Student259,female,group B,some college,standard,none,20,大数据技术
+S0260,Student260,female,group C,master's degree,free/reduced,completed,18,大数据技术
+S0261,Student261,female,group C,some high school,free/reduced,completed,19,大数据技术
+S0262,Student262,male,group C,some college,standard,completed,20,大数据技术
+S0263,Student263,female,group C,some high school,free/reduced,none,21,网络工程
+S0264,Student264,female,group E,high school,standard,none,21,网络工程
+S0265,Student265,male,group D,high school,standard,none,19,信息管理与信息系统
+S0266,Student266,male,group D,some high school,free/reduced,none,19,计算机科学与技术
+S0267,Student267,female,group C,bachelor's degree,standard,none,20,网络工程
+S0268,Student268,female,group D,high school,standard,none,19,信息管理与信息系统
+S0269,Student269,female,group D,associate's degree,standard,completed,19,信息管理与信息系统
+S0270,Student270,female,group E,some college,free/reduced,none,22,软件工程
+S0271,Student271,male,group C,bachelor's degree,standard,none,19,大数据技术
+S0272,Student272,male,group C,some college,standard,none,21,大数据技术
+S0273,Student273,female,group D,associate's degree,free/reduced,none,19,计算机科学与技术
+S0274,Student274,female,group D,some college,standard,none,18,信息管理与信息系统
+S0275,Student275,male,group B,some college,standard,completed,18,大数据技术
+S0276,Student276,male,group C,bachelor's degree,standard,none,22,信息管理与信息系统
+S0277,Student277,female,group C,some high school,standard,completed,19,信息管理与信息系统
+S0278,Student278,female,group E,high school,standard,completed,18,计算机科学与技术
+S0279,Student279,female,group C,some high school,free/reduced,none,19,软件工程
+S0280,Student280,male,group B,bachelor's degree,free/reduced,none,19,网络工程
+S0281,Student281,male,group D,high school,standard,none,21,大数据技术
+S0282,Student282,male,group D,high school,standard,none,22,软件工程
+S0283,Student283,female,group D,bachelor's degree,free/reduced,none,22,软件工程
+S0284,Student284,female,group D,some college,free/reduced,completed,18,软件工程
+S0285,Student285,female,group B,some high school,standard,none,18,软件工程
+S0286,Student286,male,group B,associate's degree,standard,completed,22,软件工程
+S0287,Student287,male,group E,associate's degree,standard,completed,18,计算机科学与技术
+S0288,Student288,female,group B,some high school,standard,none,18,软件工程
+S0289,Student289,male,group B,bachelor's degree,free/reduced,none,22,软件工程
+S0290,Student290,male,group E,some high school,standard,completed,18,软件工程
+S0291,Student291,male,group C,associate's degree,standard,none,22,信息管理与信息系统
+S0292,Student292,male,group D,some high school,standard,none,21,软件工程
+S0293,Student293,male,group C,some high school,standard,completed,19,网络工程
+S0294,Student294,female,group E,bachelor's degree,standard,none,22,信息管理与信息系统
+S0295,Student295,male,group D,high school,free/reduced,completed,21,大数据技术
+S0296,Student296,male,group B,associate's degree,free/reduced,none,20,网络工程
+S0297,Student297,male,group A,some high school,standard,completed,20,软件工程
+S0298,Student298,male,group E,associate's degree,standard,completed,18,网络工程
+S0299,Student299,male,group C,high school,free/reduced,completed,22,网络工程
+S0300,Student300,male,group D,associate's degree,free/reduced,none,19,大数据技术
+S0301,Student301,male,group A,some college,free/reduced,completed,19,大数据技术
+S0302,Student302,male,group D,some high school,free/reduced,none,18,信息管理与信息系统
+S0303,Student303,female,group C,associate's degree,standard,completed,19,软件工程
+S0304,Student304,male,group B,associate's degree,standard,none,19,大数据技术
+S0305,Student305,female,group C,associate's degree,standard,completed,18,信息管理与信息系统
+S0306,Student306,male,group A,some college,standard,none,21,信息管理与信息系统
+S0307,Student307,male,group E,some college,standard,completed,18,计算机科学与技术
+S0308,Student308,male,group C,some high school,standard,none,19,计算机科学与技术
+S0309,Student309,female,group B,associate's degree,free/reduced,none,20,信息管理与信息系统
+S0310,Student310,female,group D,high school,free/reduced,none,21,计算机科学与技术
+S0311,Student311,female,group B,associate's degree,standard,none,18,网络工程
+S0312,Student312,male,group B,bachelor's degree,standard,none,22,信息管理与信息系统
+S0313,Student313,male,group D,bachelor's degree,standard,completed,20,网络工程
+S0314,Student314,female,group C,associate's degree,free/reduced,completed,20,计算机科学与技术
+S0315,Student315,female,group C,bachelor's degree,standard,completed,21,计算机科学与技术
+S0316,Student316,male,group C,high school,standard,none,19,计算机科学与技术
+S0317,Student317,female,group D,master's degree,standard,completed,19,软件工程
+S0318,Student318,male,group C,associate's degree,standard,none,22,大数据技术
+S0319,Student319,male,group B,bachelor's degree,standard,none,21,软件工程
+S0320,Student320,female,group D,associate's degree,free/reduced,none,22,网络工程
+S0321,Student321,female,group C,high school,free/reduced,completed,21,网络工程
+S0322,Student322,female,group E,high school,standard,none,18,计算机科学与技术
+S0323,Student323,female,group C,some college,standard,none,21,大数据技术
+S0324,Student324,female,group C,some high school,free/reduced,none,22,大数据技术
+S0325,Student325,female,group C,high school,free/reduced,none,18,网络工程
+S0326,Student326,female,group C,some college,standard,none,19,信息管理与信息系统
+S0327,Student327,male,group C,some college,standard,none,21,计算机科学与技术
+S0328,Student328,male,group A,some college,free/reduced,none,18,计算机科学与技术
+S0329,Student329,male,group C,associate's degree,standard,completed,22,计算机科学与技术
+S0330,Student330,female,group B,some high school,standard,none,18,大数据技术
+S0331,Student331,male,group C,high school,standard,none,18,计算机科学与技术
+S0332,Student332,male,group C,associate's degree,standard,none,21,大数据技术
+S0333,Student333,male,group E,associate's degree,standard,completed,18,计算机科学与技术
+S0334,Student334,male,group B,associate's degree,standard,none,18,网络工程
+S0335,Student335,female,group C,bachelor's degree,standard,none,21,计算机科学与技术
+S0336,Student336,female,group B,some college,free/reduced,none,21,大数据技术
+S0337,Student337,male,group D,some high school,standard,completed,22,计算机科学与技术
+S0338,Student338,male,group C,associate's degree,standard,none,19,大数据技术
+S0339,Student339,female,group B,some high school,free/reduced,none,22,计算机科学与技术
+S0340,Student340,female,group D,some high school,free/reduced,completed,20,软件工程
+S0341,Student341,male,group C,high school,free/reduced,none,21,网络工程
+S0342,Student342,female,group C,high school,standard,none,18,信息管理与信息系统
+S0343,Student343,female,group B,high school,standard,completed,21,软件工程
+S0344,Student344,male,group D,associate's degree,standard,completed,21,大数据技术
+S0345,Student345,male,group D,some college,standard,none,20,大数据技术
+S0346,Student346,female,group C,high school,standard,none,20,计算机科学与技术
+S0347,Student347,male,group B,some college,standard,none,18,信息管理与信息系统
+S0348,Student348,female,group C,bachelor's degree,standard,completed,19,计算机科学与技术
+S0349,Student349,male,group D,high school,free/reduced,none,21,信息管理与信息系统
+S0350,Student350,male,group E,associate's degree,standard,none,22,软件工程
+S0351,Student351,female,group B,bachelor's degree,standard,none,20,软件工程
+S0352,Student352,male,group E,some college,standard,none,20,大数据技术
+S0353,Student353,female,group C,some college,standard,completed,21,信息管理与信息系统
+S0354,Student354,female,group C,associate's degree,standard,none,21,信息管理与信息系统
+S0355,Student355,female,group C,some college,standard,none,22,计算机科学与技术
+S0356,Student356,female,group B,bachelor's degree,standard,none,21,软件工程
+S0357,Student357,male,group A,associate's degree,standard,none,18,软件工程
+S0358,Student358,female,group C,some college,free/reduced,completed,21,大数据技术
+S0359,Student359,male,group D,some college,free/reduced,none,21,软件工程
+S0360,Student360,female,group D,some college,standard,none,22,大数据技术
+S0361,Student361,female,group B,high school,standard,none,21,网络工程
+S0362,Student362,male,group B,some high school,standard,completed,20,计算机科学与技术
+S0363,Student363,female,group C,some college,standard,none,18,计算机科学与技术
+S0364,Student364,female,group D,some high school,free/reduced,none,19,大数据技术
+S0365,Student365,male,group C,some college,standard,none,21,软件工程
+S0366,Student366,male,group A,bachelor's degree,free/reduced,completed,20,软件工程
+S0367,Student367,male,group C,high school,standard,completed,21,网络工程
+S0368,Student368,male,group C,bachelor's degree,free/reduced,none,19,信息管理与信息系统
+S0369,Student369,female,group A,some high school,free/reduced,none,21,大数据技术
+S0370,Student370,female,group D,some high school,standard,none,18,计算机科学与技术
+S0371,Student371,male,group E,some college,standard,none,22,软件工程
+S0372,Student372,female,group C,some college,free/reduced,completed,21,信息管理与信息系统
+S0373,Student373,male,group D,some high school,standard,none,21,计算机科学与技术
+S0374,Student374,female,group D,some college,standard,completed,19,软件工程
+S0375,Student375,female,group D,bachelor's degree,standard,none,21,网络工程
+S0376,Student376,male,group E,associate's degree,free/reduced,none,19,大数据技术
+S0377,Student377,female,group D,some high school,standard,none,22,信息管理与信息系统
+S0378,Student378,female,group D,master's degree,free/reduced,completed,22,信息管理与信息系统
+S0379,Student379,female,group A,some high school,standard,none,22,软件工程
+S0380,Student380,male,group A,bachelor's degree,standard,none,20,网络工程
+S0381,Student381,female,group B,associate's degree,standard,none,22,信息管理与信息系统
+S0382,Student382,male,group C,associate's degree,standard,completed,20,计算机科学与技术
+S0383,Student383,male,group C,master's degree,free/reduced,none,22,计算机科学与技术
+S0384,Student384,female,group E,some high school,free/reduced,none,22,信息管理与信息系统
+S0385,Student385,female,group A,some high school,free/reduced,none,19,计算机科学与技术
+S0386,Student386,female,group E,some college,standard,none,21,信息管理与信息系统
+S0387,Student387,female,group E,bachelor's degree,standard,none,22,网络工程
+S0388,Student388,female,group C,associate's degree,free/reduced,none,22,信息管理与信息系统
+S0389,Student389,female,group D,high school,standard,none,19,大数据技术
+S0390,Student390,male,group D,master's degree,standard,none,20,大数据技术
+S0391,Student391,male,group E,some high school,free/reduced,completed,20,信息管理与信息系统
+S0392,Student392,female,group D,some college,standard,none,19,信息管理与信息系统
+S0393,Student393,male,group E,some college,standard,none,19,计算机科学与技术
+S0394,Student394,male,group C,associate's degree,standard,completed,18,大数据技术
+S0395,Student395,female,group C,some high school,standard,completed,21,计算机科学与技术
+S0396,Student396,male,group A,high school,free/reduced,none,18,软件工程
+S0397,Student397,female,group B,high school,free/reduced,none,18,软件工程
+S0398,Student398,female,group C,associate's degree,standard,none,18,计算机科学与技术
+S0399,Student399,male,group B,some high school,standard,none,20,大数据技术
+S0400,Student400,male,group D,some high school,standard,none,19,大数据技术
+S0401,Student401,female,group C,some high school,standard,completed,20,计算机科学与技术
+S0402,Student402,male,group A,some college,standard,none,21,信息管理与信息系统
+S0403,Student403,female,group A,some college,free/reduced,none,19,软件工程
+S0404,Student404,female,group D,high school,standard,completed,19,软件工程
+S0405,Student405,female,group C,high school,standard,none,18,计算机科学与技术
+S0406,Student406,female,group C,some high school,standard,none,20,信息管理与信息系统
+S0407,Student407,male,group B,associate's degree,standard,completed,22,网络工程
+S0408,Student408,female,group B,associate's degree,standard,none,20,大数据技术
+S0409,Student409,female,group D,high school,free/reduced,completed,19,计算机科学与技术
+S0410,Student410,male,group D,associate's degree,standard,completed,19,软件工程
+S0411,Student411,female,group D,master's degree,standard,completed,18,软件工程
+S0412,Student412,male,group E,some college,standard,completed,18,计算机科学与技术
+S0413,Student413,male,group D,associate's degree,standard,none,18,计算机科学与技术
+S0414,Student414,male,group B,some high school,standard,completed,19,网络工程
+S0415,Student415,female,group C,bachelor's degree,free/reduced,completed,22,大数据技术
+S0416,Student416,male,group E,high school,standard,none,22,计算机科学与技术
+S0417,Student417,male,group C,bachelor's degree,standard,completed,21,信息管理与信息系统
+S0418,Student418,male,group C,associate's degree,standard,none,22,软件工程
+S0419,Student419,male,group D,some college,standard,none,19,软件工程
+S0420,Student420,male,group E,high school,free/reduced,completed,19,软件工程
+S0421,Student421,female,group C,associate's degree,free/reduced,completed,18,网络工程
+S0422,Student422,female,group D,high school,standard,completed,20,网络工程
+S0423,Student423,female,group D,master's degree,free/reduced,completed,20,信息管理与信息系统
+S0424,Student424,female,group A,some high school,standard,completed,19,软件工程
+S0425,Student425,male,group B,some college,free/reduced,none,21,网络工程
+S0426,Student426,female,group C,some college,free/reduced,none,19,软件工程
+S0427,Student427,male,group C,bachelor's degree,standard,none,20,计算机科学与技术
+S0428,Student428,male,group C,some high school,free/reduced,none,21,计算机科学与技术
+S0429,Student429,male,group A,some high school,free/reduced,none,21,信息管理与信息系统
+S0430,Student430,male,group C,some high school,free/reduced,none,21,大数据技术
+S0431,Student431,male,group C,associate's degree,free/reduced,none,21,软件工程
+S0432,Student432,female,group C,high school,standard,none,19,信息管理与信息系统
+S0433,Student433,male,group C,high school,standard,none,19,软件工程
+S0434,Student434,female,group A,some high school,free/reduced,none,18,计算机科学与技术
+S0435,Student435,male,group C,some high school,standard,none,19,大数据技术
+S0436,Student436,male,group C,some college,free/reduced,completed,21,信息管理与信息系统
+S0437,Student437,male,group D,associate's degree,standard,none,22,软件工程
+S0438,Student438,male,group D,associate's degree,free/reduced,none,20,网络工程
+S0439,Student439,male,group C,high school,standard,none,18,网络工程
+S0440,Student440,male,group D,some high school,standard,completed,22,网络工程
+S0441,Student441,female,group C,some college,standard,completed,22,软件工程
+S0442,Student442,female,group D,high school,standard,none,20,信息管理与信息系统
+S0443,Student443,female,group A,some high school,free/reduced,none,21,软件工程
+S0444,Student444,female,group B,associate's degree,standard,none,18,软件工程
+S0445,Student445,male,group A,some high school,free/reduced,none,20,信息管理与信息系统
+S0446,Student446,female,group C,some high school,standard,completed,21,信息管理与信息系统
+S0447,Student447,male,group D,some college,free/reduced,none,21,网络工程
+S0448,Student448,male,group C,high school,standard,completed,22,信息管理与信息系统
+S0449,Student449,male,group B,high school,standard,none,20,信息管理与信息系统
+S0450,Student450,male,group B,associate's degree,standard,none,20,网络工程
+S0451,Student451,female,group C,some college,free/reduced,completed,20,计算机科学与技术
+S0452,Student452,female,group E,some college,standard,none,22,计算机科学与技术
+S0453,Student453,female,group C,associate's degree,free/reduced,none,18,计算机科学与技术
+S0454,Student454,male,group C,some college,free/reduced,none,18,软件工程
+S0455,Student455,female,group C,associate's degree,free/reduced,none,22,软件工程
+S0456,Student456,male,group C,bachelor's degree,free/reduced,none,19,信息管理与信息系统
+S0457,Student457,female,group D,bachelor's degree,standard,none,21,大数据技术
+S0458,Student458,male,group D,associate's degree,free/reduced,none,19,大数据技术
+S0459,Student459,female,group E,bachelor's degree,standard,none,21,大数据技术
+S0460,Student460,male,group B,high school,standard,completed,20,大数据技术
+S0461,Student461,male,group C,bachelor's degree,free/reduced,none,18,信息管理与信息系统
+S0462,Student462,male,group B,some college,free/reduced,none,22,大数据技术
+S0463,Student463,female,group E,some college,standard,none,18,网络工程
+S0464,Student464,female,group C,some college,free/reduced,none,22,信息管理与信息系统
+S0465,Student465,male,group A,bachelor's degree,standard,completed,18,大数据技术
+S0466,Student466,female,group C,some college,standard,none,20,信息管理与信息系统
+S0467,Student467,female,group D,associate's degree,free/reduced,none,22,软件工程
+S0468,Student468,male,group A,high school,free/reduced,completed,21,软件工程
+S0469,Student469,female,group A,high school,free/reduced,completed,19,网络工程
+S0470,Student470,male,group C,some college,standard,none,21,网络工程
+S0471,Student471,female,group C,associate's degree,standard,completed,19,计算机科学与技术
+S0472,Student472,female,group C,high school,standard,none,22,信息管理与信息系统
+S0473,Student473,female,group C,associate's degree,standard,completed,18,大数据技术
+S0474,Student474,female,group D,some high school,standard,none,18,软件工程
+S0475,Student475,female,group B,associate's degree,standard,completed,21,信息管理与信息系统
+S0476,Student476,female,group D,bachelor's degree,standard,completed,20,大数据技术
+S0477,Student477,male,group E,bachelor's degree,standard,completed,21,软件工程
+S0478,Student478,male,group D,associate's degree,standard,none,22,大数据技术
+S0479,Student479,female,group D,master's degree,standard,none,18,信息管理与信息系统
+S0480,Student480,male,group E,associate's degree,standard,none,21,软件工程
+S0481,Student481,male,group B,high school,standard,completed,19,计算机科学与技术
+S0482,Student482,female,group D,associate's degree,free/reduced,none,21,计算机科学与技术
+S0483,Student483,male,group C,some college,free/reduced,none,19,计算机科学与技术
+S0484,Student484,male,group A,high school,standard,none,22,计算机科学与技术
+S0485,Student485,female,group B,associate's degree,standard,none,20,信息管理与信息系统
+S0486,Student486,male,group C,high school,standard,none,18,网络工程
+S0487,Student487,male,group D,some college,free/reduced,none,21,计算机科学与技术
+S0488,Student488,female,group C,associate's degree,free/reduced,none,18,计算机科学与技术
+S0489,Student489,male,group B,some high school,standard,completed,20,网络工程
+S0490,Student490,male,group A,associate's degree,free/reduced,completed,18,大数据技术
+S0491,Student491,female,group A,associate's degree,free/reduced,none,19,大数据技术
+S0492,Student492,female,group C,associate's degree,standard,none,20,信息管理与信息系统
+S0493,Student493,female,group C,some college,standard,none,20,网络工程
+S0494,Student494,female,group C,bachelor's degree,standard,none,20,软件工程
+S0495,Student495,female,group B,high school,standard,none,19,网络工程
+S0496,Student496,male,group D,high school,standard,completed,18,信息管理与信息系统
+S0497,Student497,female,group C,some college,standard,none,19,计算机科学与技术
+S0498,Student498,female,group D,some college,free/reduced,completed,19,信息管理与信息系统
+S0499,Student499,female,group B,some high school,standard,none,22,信息管理与信息系统
+S0500,Student500,male,group E,some college,standard,none,19,信息管理与信息系统
+S0501,Student501,female,group D,master's degree,standard,none,20,计算机科学与技术
+S0502,Student502,female,group B,associate's degree,standard,completed,20,网络工程
+S0503,Student503,male,group C,some college,free/reduced,none,22,软件工程
+S0504,Student504,female,group E,associate's degree,standard,completed,21,网络工程
+S0505,Student505,female,group D,master's degree,free/reduced,none,20,网络工程
+S0506,Student506,female,group B,some high school,standard,none,20,计算机科学与技术
+S0507,Student507,male,group A,high school,standard,none,22,大数据技术
+S0508,Student508,male,group B,bachelor's degree,free/reduced,none,22,信息管理与信息系统
+S0509,Student509,male,group C,master's degree,standard,none,21,信息管理与信息系统
+S0510,Student510,female,group C,bachelor's degree,standard,none,20,软件工程
+S0511,Student511,male,group D,some college,standard,none,18,信息管理与信息系统
+S0512,Student512,male,group A,some high school,standard,none,19,大数据技术
+S0513,Student513,male,group D,some high school,free/reduced,none,21,信息管理与信息系统
+S0514,Student514,female,group B,some high school,standard,completed,22,软件工程
+S0515,Student515,female,group B,master's degree,free/reduced,completed,21,大数据技术
+S0516,Student516,female,group C,some high school,standard,completed,18,信息管理与信息系统
+S0517,Student517,female,group D,some college,standard,none,19,大数据技术
+S0518,Student518,female,group E,some college,standard,completed,22,大数据技术
+S0519,Student519,female,group D,some high school,standard,completed,19,网络工程
+S0520,Student520,female,group B,high school,free/reduced,completed,21,大数据技术
+S0521,Student521,male,group D,some college,standard,none,18,大数据技术
+S0522,Student522,female,group C,associate's degree,standard,none,22,大数据技术
+S0523,Student523,male,group D,bachelor's degree,standard,none,19,网络工程
+S0524,Student524,male,group C,master's degree,free/reduced,none,19,信息管理与信息系统
+S0525,Student525,male,group C,high school,standard,completed,19,软件工程
+S0526,Student526,male,group E,some college,standard,none,19,信息管理与信息系统
+S0527,Student527,male,group C,some high school,free/reduced,completed,18,信息管理与信息系统
+S0528,Student528,female,group C,high school,free/reduced,none,20,软件工程
+S0529,Student529,female,group D,bachelor's degree,free/reduced,none,20,软件工程
+S0530,Student530,female,group C,associate's degree,standard,none,18,大数据技术
+S0531,Student531,female,group C,associate's degree,standard,completed,20,信息管理与信息系统
+S0532,Student532,female,group C,some high school,standard,none,18,网络工程
+S0533,Student533,male,group E,associate's degree,standard,completed,20,信息管理与信息系统
+S0534,Student534,female,group E,associate's degree,standard,completed,19,软件工程
+S0535,Student535,male,group B,high school,standard,completed,21,网络工程
+S0536,Student536,female,group C,bachelor's degree,free/reduced,completed,21,信息管理与信息系统
+S0537,Student537,male,group C,associate's degree,standard,completed,18,计算机科学与技术
+S0538,Student538,female,group D,high school,standard,none,22,计算机科学与技术
+S0539,Student539,male,group E,bachelor's degree,standard,completed,21,信息管理与信息系统
+S0540,Student540,male,group A,associate's degree,standard,completed,19,计算机科学与技术
+S0541,Student541,male,group C,high school,standard,completed,20,网络工程
+S0542,Student542,male,group D,associate's degree,free/reduced,completed,22,计算机科学与技术
+S0543,Student543,female,group C,associate's degree,standard,none,22,信息管理与信息系统
+S0544,Student544,female,group D,associate's degree,standard,none,18,大数据技术
+S0545,Student545,female,group D,master's degree,standard,none,22,计算机科学与技术
+S0546,Student546,male,group E,some high school,free/reduced,completed,18,大数据技术
+S0547,Student547,female,group A,some high school,standard,completed,19,计算机科学与技术
+S0548,Student548,male,group C,high school,standard,completed,21,计算机科学与技术
+S0549,Student549,female,group C,high school,free/reduced,none,22,计算机科学与技术
+S0550,Student550,male,group C,master's degree,standard,none,18,网络工程
+S0551,Student551,male,group C,some high school,free/reduced,none,22,信息管理与信息系统
+S0552,Student552,male,group B,bachelor's degree,free/reduced,completed,22,软件工程
+S0553,Student553,female,group B,associate's degree,standard,none,19,软件工程
+S0554,Student554,male,group D,some college,free/reduced,none,19,网络工程
+S0555,Student555,male,group E,associate's degree,standard,none,18,大数据技术
+S0556,Student556,female,group C,some college,free/reduced,none,18,网络工程
+S0557,Student557,female,group C,associate's degree,standard,completed,18,网络工程
+S0558,Student558,male,group C,master's degree,free/reduced,none,21,网络工程
+S0559,Student559,female,group B,associate's degree,free/reduced,none,20,大数据技术
+S0560,Student560,male,group D,some high school,standard,none,20,软件工程
+S0561,Student561,female,group D,some college,standard,completed,19,软件工程
+S0562,Student562,female,group C,some college,standard,none,22,计算机科学与技术
+S0563,Student563,male,group C,bachelor's degree,standard,completed,20,大数据技术
+S0564,Student564,female,group D,some college,free/reduced,completed,20,信息管理与信息系统
+S0565,Student565,male,group B,bachelor's degree,free/reduced,none,19,网络工程
+S0566,Student566,male,group B,associate's degree,standard,none,18,信息管理与信息系统
+S0567,Student567,female,group E,bachelor's degree,free/reduced,completed,18,计算机科学与技术
+S0568,Student568,female,group D,master's degree,free/reduced,completed,18,计算机科学与技术
+S0569,Student569,male,group B,high school,free/reduced,none,20,网络工程
+S0570,Student570,male,group D,bachelor's degree,free/reduced,none,18,网络工程
+S0571,Student571,male,group B,some college,standard,completed,22,软件工程
+S0572,Student572,male,group A,bachelor's degree,standard,none,18,计算机科学与技术
+S0573,Student573,female,group C,some college,standard,none,20,计算机科学与技术
+S0574,Student574,female,group C,high school,free/reduced,completed,19,大数据技术
+S0575,Student575,female,group E,high school,standard,none,18,网络工程
+S0576,Student576,male,group A,associate's degree,free/reduced,completed,18,软件工程
+S0577,Student577,male,group A,some college,standard,completed,20,计算机科学与技术
+S0578,Student578,female,group B,high school,standard,none,22,信息管理与信息系统
+S0579,Student579,female,group B,some college,free/reduced,completed,21,大数据技术
+S0580,Student580,female,group D,master's degree,standard,none,21,信息管理与信息系统
+S0581,Student581,female,group D,some high school,standard,none,21,信息管理与信息系统
+S0582,Student582,female,group E,some high school,standard,none,20,信息管理与信息系统
+S0583,Student583,female,group D,bachelor's degree,free/reduced,none,21,信息管理与信息系统
+S0584,Student584,female,group D,associate's degree,standard,completed,22,信息管理与信息系统
+S0585,Student585,female,group D,some college,standard,none,20,计算机科学与技术
+S0586,Student586,female,group C,associate's degree,standard,none,21,软件工程
+S0587,Student587,female,group A,high school,standard,none,18,信息管理与信息系统
+S0588,Student588,female,group C,bachelor's degree,free/reduced,none,21,计算机科学与技术
+S0589,Student589,female,group C,some college,standard,none,18,网络工程
+S0590,Student590,female,group A,some high school,standard,none,21,计算机科学与技术
+S0591,Student591,male,group C,some college,free/reduced,none,22,计算机科学与技术
+S0592,Student592,male,group A,some high school,standard,none,20,大数据技术
+S0593,Student593,male,group E,bachelor's degree,standard,none,20,大数据技术
+S0594,Student594,female,group E,high school,standard,none,19,大数据技术
+S0595,Student595,female,group C,bachelor's degree,standard,completed,21,信息管理与信息系统
+S0596,Student596,female,group C,bachelor's degree,standard,completed,22,大数据技术
+S0597,Student597,male,group B,high school,free/reduced,none,18,软件工程
+S0598,Student598,male,group A,some high school,standard,none,19,计算机科学与技术
+S0599,Student599,female,group D,high school,standard,none,19,大数据技术
+S0600,Student600,female,group D,some high school,standard,none,20,软件工程
+S0601,Student601,female,group D,master's degree,standard,none,18,计算机科学与技术
+S0602,Student602,female,group C,high school,standard,none,19,软件工程
+S0603,Student603,female,group E,some college,standard,none,20,网络工程
+S0604,Student604,male,group D,high school,free/reduced,none,20,网络工程
+S0605,Student605,male,group D,master's degree,free/reduced,completed,21,计算机科学与技术
+S0606,Student606,male,group C,some high school,standard,none,20,大数据技术
+S0607,Student607,female,group C,associate's degree,standard,none,18,信息管理与信息系统
+S0608,Student608,female,group C,master's degree,free/reduced,none,20,大数据技术
+S0609,Student609,female,group E,some college,standard,none,20,大数据技术
+S0610,Student610,female,group B,associate's degree,standard,none,19,网络工程
+S0611,Student611,male,group D,some college,free/reduced,completed,19,大数据技术
+S0612,Student612,female,group C,some college,standard,none,20,网络工程
+S0613,Student613,male,group C,bachelor's degree,standard,completed,20,大数据技术
+S0614,Student614,female,group C,associate's degree,standard,none,19,大数据技术
+S0615,Student615,female,group A,associate's degree,standard,none,22,软件工程
+S0616,Student616,female,group C,high school,standard,none,21,信息管理与信息系统
+S0617,Student617,female,group E,bachelor's degree,standard,none,18,网络工程
+S0618,Student618,male,group D,bachelor's degree,standard,none,18,网络工程
+S0619,Student619,male,group D,master's degree,standard,none,19,信息管理与信息系统
+S0620,Student620,male,group C,associate's degree,free/reduced,completed,21,信息管理与信息系统
+S0621,Student621,female,group C,high school,free/reduced,none,19,大数据技术
+S0622,Student622,male,group B,bachelor's degree,free/reduced,none,19,大数据技术
+S0623,Student623,male,group C,high school,free/reduced,completed,22,软件工程
+S0624,Student624,male,group A,some college,standard,completed,22,计算机科学与技术
+S0625,Student625,female,group E,bachelor's degree,free/reduced,none,21,大数据技术
+S0626,Student626,male,group D,some college,standard,completed,19,信息管理与信息系统
+S0627,Student627,male,group B,associate's degree,free/reduced,completed,21,信息管理与信息系统
+S0628,Student628,male,group D,associate's degree,standard,none,19,信息管理与信息系统
+S0629,Student629,male,group D,some college,free/reduced,none,18,大数据技术
+S0630,Student630,female,group C,some high school,standard,completed,22,信息管理与信息系统
+S0631,Student631,male,group D,some college,standard,none,22,大数据技术
+S0632,Student632,male,group B,high school,standard,none,18,信息管理与信息系统
+S0633,Student633,female,group B,bachelor's degree,standard,completed,20,计算机科学与技术
+S0634,Student634,female,group C,high school,standard,none,22,大数据技术
+S0635,Student635,male,group D,some high school,standard,none,22,计算机科学与技术
+S0636,Student636,male,group A,high school,standard,none,22,大数据技术
+S0637,Student637,female,group B,high school,free/reduced,completed,21,计算机科学与技术
+S0638,Student638,female,group D,some high school,standard,completed,21,网络工程
+S0639,Student639,male,group E,some college,standard,none,20,软件工程
+S0640,Student640,female,group D,associate's degree,standard,none,20,软件工程
+S0641,Student641,male,group D,high school,standard,none,18,计算机科学与技术
+S0642,Student642,female,group D,associate's degree,free/reduced,completed,20,计算机科学与技术
+S0643,Student643,female,group B,some high school,free/reduced,none,18,计算机科学与技术
+S0644,Student644,female,group E,high school,standard,completed,18,大数据技术
+S0645,Student645,male,group B,high school,standard,none,22,计算机科学与技术
+S0646,Student646,female,group B,bachelor's degree,standard,completed,18,软件工程
+S0647,Student647,female,group D,associate's degree,standard,none,20,网络工程
+S0648,Student648,female,group E,high school,free/reduced,none,21,软件工程
+S0649,Student649,female,group B,high school,standard,none,18,大数据技术
+S0650,Student650,female,group D,some college,standard,completed,22,计算机科学与技术
+S0651,Student651,male,group C,some high school,free/reduced,completed,20,软件工程
+S0652,Student652,female,group A,high school,standard,completed,20,信息管理与信息系统
+S0653,Student653,female,group D,some college,standard,completed,22,网络工程
+S0654,Student654,female,group A,associate's degree,standard,completed,18,信息管理与信息系统
+S0655,Student655,female,group B,some high school,standard,none,18,软件工程
+S0656,Student656,female,group B,some college,standard,none,22,网络工程
+S0657,Student657,male,group C,associate's degree,free/reduced,none,19,软件工程
+S0658,Student658,male,group D,some high school,standard,none,22,大数据技术
+S0659,Student659,female,group D,associate's degree,free/reduced,none,22,网络工程
+S0660,Student660,male,group D,associate's degree,standard,none,19,信息管理与信息系统
+S0661,Student661,male,group C,some college,free/reduced,none,18,大数据技术
+S0662,Student662,male,group C,some high school,standard,none,21,信息管理与信息系统
+S0663,Student663,female,group D,some college,free/reduced,none,21,大数据技术
+S0664,Student664,female,group C,high school,standard,none,18,软件工程
+S0665,Student665,male,group D,associate's degree,standard,none,19,信息管理与信息系统
+S0666,Student666,female,group C,some high school,free/reduced,completed,18,网络工程
+S0667,Student667,female,group C,some college,free/reduced,completed,21,计算机科学与技术
+S0668,Student668,female,group B,bachelor's degree,free/reduced,none,21,计算机科学与技术
+S0669,Student669,male,group C,some college,standard,none,18,软件工程
+S0670,Student670,male,group D,associate's degree,standard,completed,20,大数据技术
+S0671,Student671,female,group C,high school,free/reduced,none,21,网络工程
+S0672,Student672,male,group D,associate's degree,free/reduced,none,20,计算机科学与技术
+S0673,Student673,female,group C,some college,standard,none,22,大数据技术
+S0674,Student674,female,group C,associate's degree,standard,completed,20,信息管理与信息系统
+S0675,Student675,female,group D,high school,standard,completed,22,信息管理与信息系统
+S0676,Student676,female,group B,some college,standard,completed,22,软件工程
+S0677,Student677,female,group E,some college,standard,completed,18,计算机科学与技术
+S0678,Student678,female,group C,some high school,standard,completed,21,信息管理与信息系统
+S0679,Student679,male,group D,associate's degree,free/reduced,none,21,信息管理与信息系统
+S0680,Student680,male,group D,some college,free/reduced,none,22,计算机科学与技术
+S0681,Student681,female,group D,high school,standard,none,19,软件工程
+S0682,Student682,male,group B,high school,standard,none,19,信息管理与信息系统
+S0683,Student683,male,group B,high school,standard,none,20,大数据技术
+S0684,Student684,female,group C,some high school,free/reduced,completed,22,计算机科学与技术
+S0685,Student685,male,group B,some college,standard,completed,22,大数据技术
+S0686,Student686,female,group E,master's degree,standard,completed,22,软件工程
+S0687,Student687,male,group E,some college,standard,completed,18,大数据技术
+S0688,Student688,male,group D,associate's degree,free/reduced,none,18,大数据技术
+S0689,Student689,male,group A,high school,free/reduced,none,21,网络工程
+S0690,Student690,male,group E,some college,free/reduced,none,18,信息管理与信息系统
+S0691,Student691,female,group C,associate's degree,standard,none,22,大数据技术
+S0692,Student692,female,group E,associate's degree,free/reduced,none,18,信息管理与信息系统
+S0693,Student693,female,group C,bachelor's degree,free/reduced,completed,22,软件工程
+S0694,Student694,female,group D,associate's degree,standard,none,19,大数据技术
+S0695,Student695,female,group C,some high school,standard,none,19,大数据技术
+S0696,Student696,female,group D,some college,free/reduced,none,19,信息管理与信息系统
+S0697,Student697,female,group C,associate's degree,standard,completed,21,软件工程
+S0698,Student698,female,group A,bachelor's degree,standard,none,18,软件工程
+S0699,Student699,female,group D,associate's degree,standard,completed,20,网络工程
+S0700,Student700,male,group C,high school,free/reduced,none,20,网络工程
+S0701,Student701,female,group E,bachelor's degree,standard,completed,20,大数据技术
+S0702,Student702,female,group B,some high school,standard,none,19,软件工程
+S0703,Student703,male,group A,bachelor's degree,standard,completed,18,信息管理与信息系统
+S0704,Student704,female,group D,some college,standard,none,20,计算机科学与技术
+S0705,Student705,female,group B,some high school,free/reduced,completed,19,信息管理与信息系统
+S0706,Student706,male,group A,bachelor's degree,free/reduced,none,21,计算机科学与技术
+S0707,Student707,male,group D,high school,standard,none,19,网络工程
+S0708,Student708,male,group C,some college,standard,none,19,信息管理与信息系统
+S0709,Student709,male,group D,high school,standard,none,19,计算机科学与技术
+S0710,Student710,female,group D,associate's degree,free/reduced,completed,18,计算机科学与技术
+S0711,Student711,male,group C,some college,standard,completed,20,大数据技术
+S0712,Student712,female,group E,some high school,standard,completed,22,信息管理与信息系统
+S0713,Student713,female,group D,some college,standard,none,20,大数据技术
+S0714,Student714,male,group D,master's degree,standard,none,20,网络工程
+S0715,Student715,female,group B,some high school,standard,completed,20,软件工程
+S0716,Student716,female,group B,associate's degree,free/reduced,completed,19,信息管理与信息系统
+S0717,Student717,male,group C,associate's degree,standard,completed,18,计算机科学与技术
+S0718,Student718,female,group C,associate's degree,standard,completed,22,软件工程
+S0719,Student719,female,group C,high school,standard,none,21,软件工程
+S0720,Student720,male,group E,associate's degree,free/reduced,completed,21,计算机科学与技术
+S0721,Student721,female,group C,some college,free/reduced,none,18,计算机科学与技术
+S0722,Student722,male,group D,some high school,free/reduced,completed,20,信息管理与信息系统
+S0723,Student723,female,group B,some high school,free/reduced,completed,18,信息管理与信息系统
+S0724,Student724,male,group C,high school,standard,none,19,大数据技术
+S0725,Student725,male,group B,some college,standard,none,18,大数据技术
+S0726,Student726,male,group E,some college,standard,completed,18,大数据技术
+S0727,Student727,female,group E,associate's degree,standard,completed,20,软件工程
+S0728,Student728,male,group E,some high school,standard,completed,19,信息管理与信息系统
+S0729,Student729,female,group D,high school,free/reduced,none,22,软件工程
+S0730,Student730,male,group C,some college,standard,none,21,软件工程
+S0731,Student731,female,group B,associate's degree,free/reduced,completed,19,信息管理与信息系统
+S0732,Student732,male,group A,some high school,free/reduced,none,18,软件工程
+S0733,Student733,female,group C,some college,standard,completed,21,计算机科学与技术
+S0734,Student734,male,group D,some high school,standard,none,19,网络工程
+S0735,Student735,female,group E,some college,free/reduced,none,19,软件工程
+S0736,Student736,male,group C,master's degree,standard,none,20,计算机科学与技术
+S0737,Student737,male,group C,associate's degree,standard,none,20,大数据技术
+S0738,Student738,female,group B,some college,free/reduced,completed,21,软件工程
+S0739,Student739,male,group D,associate's degree,standard,none,22,大数据技术
+S0740,Student740,male,group C,high school,free/reduced,none,21,软件工程
+S0741,Student741,male,group D,bachelor's degree,standard,none,22,网络工程
+S0742,Student742,female,group A,associate's degree,free/reduced,none,19,网络工程
+S0743,Student743,female,group C,high school,standard,none,19,信息管理与信息系统
+S0744,Student744,female,group C,associate's degree,standard,completed,19,信息管理与信息系统
+S0745,Student745,male,group B,some college,free/reduced,none,18,计算机科学与技术
+S0746,Student746,male,group D,associate's degree,standard,none,18,计算机科学与技术
+S0747,Student747,male,group D,high school,standard,none,18,软件工程
+S0748,Student748,male,group C,some college,standard,none,21,网络工程
+S0749,Student749,female,group C,bachelor's degree,free/reduced,none,20,网络工程
+S0750,Student750,male,group B,some college,standard,completed,19,软件工程
+S0751,Student751,male,group D,some high school,standard,completed,21,网络工程
+S0752,Student752,male,group E,some college,standard,none,20,软件工程
+S0753,Student753,male,group C,master's degree,free/reduced,completed,18,计算机科学与技术
+S0754,Student754,female,group C,some high school,standard,completed,22,软件工程
+S0755,Student755,male,group C,associate's degree,free/reduced,none,19,信息管理与信息系统
+S0756,Student756,female,group E,associate's degree,standard,none,18,计算机科学与技术
+S0757,Student757,male,group D,some college,standard,none,18,大数据技术
+S0758,Student758,male,group E,bachelor's degree,free/reduced,completed,22,信息管理与信息系统
+S0759,Student759,female,group D,some college,free/reduced,completed,21,大数据技术
+S0760,Student760,male,group B,some college,standard,completed,21,信息管理与信息系统
+S0761,Student761,female,group C,high school,free/reduced,none,19,大数据技术
+S0762,Student762,female,group D,some high school,standard,none,21,信息管理与信息系统
+S0763,Student763,male,group D,some high school,standard,completed,19,信息管理与信息系统
+S0764,Student764,female,group B,high school,standard,none,20,软件工程
+S0765,Student765,male,group D,some college,standard,none,18,软件工程
+S0766,Student766,female,group B,high school,standard,none,21,软件工程
+S0767,Student767,female,group C,high school,standard,completed,21,网络工程
+S0768,Student768,male,group B,high school,standard,completed,22,网络工程
+S0769,Student769,female,group D,some high school,standard,none,21,网络工程
+S0770,Student770,male,group A,some college,free/reduced,none,18,网络工程
+S0771,Student771,male,group B,high school,standard,none,19,软件工程
+S0772,Student772,male,group D,bachelor's degree,standard,none,18,信息管理与信息系统
+S0773,Student773,female,group B,some high school,free/reduced,completed,19,网络工程
+S0774,Student774,female,group C,bachelor's degree,free/reduced,none,19,大数据技术
+S0775,Student775,male,group B,some college,standard,none,22,计算机科学与技术
+S0776,Student776,female,group B,some high school,free/reduced,none,18,网络工程
+S0777,Student777,female,group B,high school,standard,none,20,信息管理与信息系统
+S0778,Student778,female,group C,some college,free/reduced,none,22,计算机科学与技术
+S0779,Student779,female,group A,some college,standard,completed,19,计算机科学与技术
+S0780,Student780,male,group E,associate's degree,standard,completed,21,计算机科学与技术
+S0781,Student781,female,group D,associate's degree,free/reduced,none,19,软件工程
+S0782,Student782,female,group B,master's degree,standard,none,18,计算机科学与技术
+S0783,Student783,female,group B,high school,free/reduced,completed,20,网络工程
+S0784,Student784,female,group C,associate's degree,standard,completed,19,信息管理与信息系统
+S0785,Student785,male,group C,bachelor's degree,standard,completed,18,大数据技术
+S0786,Student786,female,group B,some high school,standard,completed,20,计算机科学与技术
+S0787,Student787,female,group E,some high school,free/reduced,none,19,大数据技术
+S0788,Student788,female,group B,some college,standard,none,22,大数据技术
+S0789,Student789,male,group C,associate's degree,free/reduced,none,22,计算机科学与技术
+S0790,Student790,female,group C,master's degree,free/reduced,none,19,计算机科学与技术
+S0791,Student791,female,group B,high school,standard,none,21,信息管理与信息系统
+S0792,Student792,female,group D,some college,free/reduced,none,20,计算机科学与技术
+S0793,Student793,male,group D,high school,free/reduced,none,22,软件工程
+S0794,Student794,male,group E,some high school,standard,completed,20,网络工程
+S0795,Student795,female,group B,high school,standard,none,18,网络工程
+S0796,Student796,female,group E,associate's degree,free/reduced,completed,21,软件工程
+S0797,Student797,male,group D,high school,standard,none,21,网络工程
+S0798,Student798,female,group E,associate's degree,free/reduced,none,22,信息管理与信息系统
+S0799,Student799,male,group E,some college,standard,none,21,信息管理与信息系统
+S0800,Student800,female,group C,associate's degree,standard,none,21,信息管理与信息系统
+S0801,Student801,male,group C,some high school,standard,completed,19,大数据技术
+S0802,Student802,male,group C,some high school,standard,completed,19,大数据技术
+S0803,Student803,female,group E,associate's degree,standard,none,19,信息管理与信息系统
+S0804,Student804,female,group B,some college,standard,none,19,网络工程
+S0805,Student805,female,group C,some college,standard,none,21,软件工程
+S0806,Student806,male,group A,some college,free/reduced,none,19,信息管理与信息系统
+S0807,Student807,female,group D,some college,free/reduced,none,22,计算机科学与技术
+S0808,Student808,female,group E,high school,free/reduced,none,20,软件工程
+S0809,Student809,male,group C,high school,standard,none,19,大数据技术
+S0810,Student810,male,group B,bachelor's degree,standard,none,21,计算机科学与技术
+S0811,Student811,male,group A,some high school,standard,none,20,信息管理与信息系统
+S0812,Student812,male,group A,high school,free/reduced,none,22,大数据技术
+S0813,Student813,female,group C,master's degree,standard,completed,22,计算机科学与技术
+S0814,Student814,male,group E,some high school,standard,completed,22,信息管理与信息系统
+S0815,Student815,female,group C,high school,standard,none,22,计算机科学与技术
+S0816,Student816,male,group B,some high school,standard,completed,21,网络工程
+S0817,Student817,female,group A,bachelor's degree,standard,none,22,网络工程
+S0818,Student818,male,group D,bachelor's degree,free/reduced,completed,22,信息管理与信息系统
+S0819,Student819,female,group B,high school,free/reduced,none,18,计算机科学与技术
+S0820,Student820,female,group C,some high school,standard,none,21,大数据技术
+S0821,Student821,female,group A,some high school,standard,completed,20,大数据技术
+S0822,Student822,female,group D,bachelor's degree,free/reduced,none,22,大数据技术
+S0823,Student823,male,group E,some college,free/reduced,completed,21,大数据技术
+S0824,Student824,female,group B,high school,free/reduced,none,20,信息管理与信息系统
+S0825,Student825,female,group C,some high school,free/reduced,none,21,网络工程
+S0826,Student826,male,group C,high school,standard,none,18,软件工程
+S0827,Student827,female,group C,associate's degree,free/reduced,completed,19,网络工程
+S0828,Student828,female,group C,some high school,standard,none,21,信息管理与信息系统
+S0829,Student829,female,group D,some high school,free/reduced,completed,20,网络工程
+S0830,Student830,male,group B,some high school,standard,none,22,大数据技术
+S0831,Student831,female,group A,some college,free/reduced,none,21,软件工程
+S0832,Student832,female,group C,bachelor's degree,free/reduced,completed,18,软件工程
+S0833,Student833,male,group A,bachelor's degree,standard,none,18,网络工程
+S0834,Student834,female,group B,high school,standard,completed,21,计算机科学与技术
+S0835,Student835,male,group B,some college,standard,none,21,网络工程
+S0836,Student836,female,group C,high school,standard,completed,19,网络工程
+S0837,Student837,male,group E,high school,standard,none,19,大数据技术
+S0838,Student838,female,group A,high school,standard,completed,20,大数据技术
+S0839,Student839,male,group B,associate's degree,free/reduced,completed,19,信息管理与信息系统
+S0840,Student840,female,group C,associate's degree,standard,none,22,网络工程
+S0841,Student841,female,group D,high school,free/reduced,none,20,计算机科学与技术
+S0842,Student842,male,group C,some high school,standard,none,19,软件工程
+S0843,Student843,female,group B,high school,free/reduced,completed,22,软件工程
+S0844,Student844,male,group B,some college,free/reduced,completed,21,信息管理与信息系统
+S0845,Student845,female,group D,some high school,free/reduced,completed,18,信息管理与信息系统
+S0846,Student846,male,group E,master's degree,standard,none,20,大数据技术
+S0847,Student847,male,group C,master's degree,standard,completed,21,软件工程
+S0848,Student848,male,group D,high school,standard,none,22,网络工程
+S0849,Student849,female,group C,high school,standard,none,20,软件工程
+S0850,Student850,male,group D,associate's degree,standard,none,19,网络工程
+S0851,Student851,male,group C,master's degree,standard,none,19,计算机科学与技术
+S0852,Student852,female,group A,high school,standard,none,18,软件工程
+S0853,Student853,female,group E,some college,standard,none,18,大数据技术
+S0854,Student854,male,group E,some high school,standard,none,20,网络工程
+S0855,Student855,male,group C,some high school,standard,none,21,软件工程
+S0856,Student856,female,group B,bachelor's degree,standard,none,20,软件工程
+S0857,Student857,male,group B,some college,free/reduced,none,18,网络工程
+S0858,Student858,female,group C,bachelor's degree,standard,none,22,大数据技术
+S0859,Student859,male,group B,high school,standard,completed,22,大数据技术
+S0860,Student860,male,group C,associate's degree,free/reduced,none,19,网络工程
+S0861,Student861,female,group C,associate's degree,standard,none,19,网络工程
+S0862,Student862,female,group E,master's degree,free/reduced,none,19,信息管理与信息系统
+S0863,Student863,male,group D,bachelor's degree,free/reduced,completed,18,信息管理与信息系统
+S0864,Student864,female,group C,some college,standard,completed,20,大数据技术
+S0865,Student865,male,group C,associate's degree,standard,none,20,网络工程
+S0866,Student866,male,group D,some college,standard,completed,21,网络工程
+S0867,Student867,male,group C,high school,free/reduced,none,18,计算机科学与技术
+S0868,Student868,male,group B,associate's degree,standard,none,20,大数据技术
+S0869,Student869,male,group E,associate's degree,free/reduced,completed,18,软件工程
+S0870,Student870,male,group C,associate's degree,free/reduced,none,20,大数据技术
+S0871,Student871,male,group B,high school,standard,none,20,软件工程
+S0872,Student872,female,group C,some college,standard,completed,21,大数据技术
+S0873,Student873,male,group B,associate's degree,standard,completed,20,网络工程
+S0874,Student874,male,group E,associate's degree,free/reduced,none,18,大数据技术
+S0875,Student875,female,group C,bachelor's degree,free/reduced,none,18,大数据技术
+S0876,Student876,male,group C,some college,free/reduced,none,18,网络工程
+S0877,Student877,male,group D,some college,standard,none,22,计算机科学与技术
+S0878,Student878,male,group C,some high school,standard,none,21,大数据技术
+S0879,Student879,female,group D,some high school,standard,none,18,信息管理与信息系统
+S0880,Student880,female,group D,associate's degree,standard,none,22,软件工程
+S0881,Student881,male,group C,bachelor's degree,standard,completed,20,大数据技术
+S0882,Student882,female,group E,bachelor's degree,standard,completed,22,计算机科学与技术
+S0883,Student883,female,group B,high school,free/reduced,none,19,软件工程
+S0884,Student884,male,group D,bachelor's degree,free/reduced,none,21,计算机科学与技术
+S0885,Student885,female,group E,associate's degree,standard,none,21,软件工程
+S0886,Student886,female,group C,associate's degree,standard,completed,22,网络工程
+S0887,Student887,female,group E,associate's degree,standard,completed,20,大数据技术
+S0888,Student888,male,group C,high school,free/reduced,none,22,网络工程
+S0889,Student889,female,group D,some college,free/reduced,none,18,网络工程
+S0890,Student890,male,group D,high school,free/reduced,none,21,信息管理与信息系统
+S0891,Student891,female,group E,some college,standard,completed,20,网络工程
+S0892,Student892,female,group E,associate's degree,standard,none,21,网络工程
+S0893,Student893,female,group A,master's degree,free/reduced,none,21,信息管理与信息系统
+S0894,Student894,male,group D,some high school,standard,completed,22,网络工程
+S0895,Student895,female,group E,associate's degree,standard,none,18,软件工程
+S0896,Student896,female,group E,some high school,free/reduced,none,22,软件工程
+S0897,Student897,male,group B,high school,free/reduced,none,20,网络工程
+S0898,Student898,female,group B,some high school,free/reduced,completed,19,网络工程
+S0899,Student899,male,group D,associate's degree,standard,completed,18,大数据技术
+S0900,Student900,female,group D,some high school,standard,completed,22,计算机科学与技术
+S0901,Student901,male,group D,master's degree,standard,none,21,计算机科学与技术
+S0902,Student902,female,group C,master's degree,standard,none,20,网络工程
+S0903,Student903,female,group A,high school,free/reduced,completed,18,大数据技术
+S0904,Student904,female,group D,bachelor's degree,free/reduced,completed,18,软件工程
+S0905,Student905,female,group D,some high school,free/reduced,none,19,计算机科学与技术
+S0906,Student906,male,group D,some college,standard,none,18,软件工程
+S0907,Student907,male,group B,high school,standard,none,21,计算机科学与技术
+S0908,Student908,female,group D,some college,standard,completed,21,计算机科学与技术
+S0909,Student909,female,group C,bachelor's degree,free/reduced,none,19,软件工程
+S0910,Student910,male,group E,bachelor's degree,standard,completed,19,信息管理与信息系统
+S0911,Student911,male,group D,bachelor's degree,free/reduced,none,18,网络工程
+S0912,Student912,female,group A,some college,standard,none,22,网络工程
+S0913,Student913,female,group C,bachelor's degree,standard,completed,18,软件工程
+S0914,Student914,female,group C,bachelor's degree,free/reduced,completed,21,信息管理与信息系统
+S0915,Student915,female,group B,associate's degree,free/reduced,none,21,大数据技术
+S0916,Student916,female,group E,some college,standard,none,22,计算机科学与技术
+S0917,Student917,male,group E,bachelor's degree,standard,completed,20,信息管理与信息系统
+S0918,Student918,female,group C,high school,standard,none,21,计算机科学与技术
+S0919,Student919,female,group C,associate's degree,standard,completed,19,软件工程
+S0920,Student920,male,group B,some college,standard,completed,18,信息管理与信息系统
+S0921,Student921,male,group D,high school,free/reduced,none,22,计算机科学与技术
+S0922,Student922,female,group C,high school,free/reduced,none,22,网络工程
+S0923,Student923,male,group D,high school,standard,none,22,网络工程
+S0924,Student924,female,group B,associate's degree,free/reduced,none,21,信息管理与信息系统
+S0925,Student925,male,group D,high school,free/reduced,none,18,软件工程
+S0926,Student926,male,group E,some high school,standard,completed,19,大数据技术
+S0927,Student927,male,group E,associate's degree,free/reduced,none,20,大数据技术
+S0928,Student928,female,group D,high school,free/reduced,completed,20,网络工程
+S0929,Student929,male,group E,associate's degree,free/reduced,completed,18,网络工程
+S0930,Student930,female,group C,some high school,free/reduced,none,18,计算机科学与技术
+S0931,Student931,male,group C,some college,free/reduced,completed,21,计算机科学与技术
+S0932,Student932,male,group D,some college,free/reduced,none,19,信息管理与信息系统
+S0933,Student933,male,group D,associate's degree,free/reduced,completed,22,计算机科学与技术
+S0934,Student934,male,group C,bachelor's degree,free/reduced,completed,21,计算机科学与技术
+S0935,Student935,male,group C,associate's degree,standard,completed,20,软件工程
+S0936,Student936,male,group D,some college,free/reduced,none,20,信息管理与信息系统
+S0937,Student937,male,group A,associate's degree,standard,none,18,大数据技术
+S0938,Student938,female,group E,high school,free/reduced,none,21,网络工程
+S0939,Student939,male,group D,some college,standard,completed,22,网络工程
+S0940,Student940,male,group D,some high school,standard,completed,22,大数据技术
+S0941,Student941,male,group C,master's degree,free/reduced,completed,19,网络工程
+S0942,Student942,female,group D,master's degree,standard,none,21,软件工程
+S0943,Student943,male,group C,high school,standard,none,19,网络工程
+S0944,Student944,male,group A,some high school,free/reduced,completed,18,大数据技术
+S0945,Student945,female,group B,high school,standard,none,18,网络工程
+S0946,Student946,female,group C,associate's degree,standard,none,20,大数据技术
+S0947,Student947,male,group B,high school,standard,none,18,计算机科学与技术
+S0948,Student948,female,group D,some college,free/reduced,none,19,信息管理与信息系统
+S0949,Student949,male,group B,some high school,free/reduced,completed,20,计算机科学与技术
+S0950,Student950,female,group E,high school,free/reduced,completed,20,计算机科学与技术
+S0951,Student951,male,group E,high school,standard,none,22,网络工程
+S0952,Student952,female,group D,some college,standard,completed,22,网络工程
+S0953,Student953,female,group E,some high school,free/reduced,none,19,软件工程
+S0954,Student954,male,group C,high school,standard,completed,19,信息管理与信息系统
+S0955,Student955,female,group C,some college,standard,none,22,大数据技术
+S0956,Student956,male,group E,associate's degree,standard,none,21,计算机科学与技术
+S0957,Student957,male,group C,some college,standard,none,18,计算机科学与技术
+S0958,Student958,female,group D,master's degree,standard,none,20,大数据技术
+S0959,Student959,female,group D,high school,standard,none,20,软件工程
+S0960,Student960,male,group C,high school,standard,none,22,大数据技术
+S0961,Student961,female,group A,some college,standard,none,20,网络工程
+S0962,Student962,female,group D,some high school,free/reduced,none,19,计算机科学与技术
+S0963,Student963,female,group E,associate's degree,standard,none,22,大数据技术
+S0964,Student964,female,group C,some high school,free/reduced,completed,20,信息管理与信息系统
+S0965,Student965,male,group D,some college,standard,none,20,大数据技术
+S0966,Student966,female,group D,some college,standard,none,21,网络工程
+S0967,Student967,male,group A,some high school,standard,completed,22,大数据技术
+S0968,Student968,male,group C,some college,standard,none,19,信息管理与信息系统
+S0969,Student969,female,group E,associate's degree,standard,none,22,网络工程
+S0970,Student970,female,group B,bachelor's degree,standard,none,20,大数据技术
+S0971,Student971,female,group D,bachelor's degree,standard,none,22,网络工程
+S0972,Student972,male,group C,some high school,standard,completed,19,计算机科学与技术
+S0973,Student973,female,group A,high school,free/reduced,completed,22,网络工程
+S0974,Student974,female,group D,some college,free/reduced,none,22,软件工程
+S0975,Student975,female,group A,some college,standard,none,20,大数据技术
+S0976,Student976,female,group C,some college,standard,completed,21,网络工程
+S0977,Student977,male,group B,some college,free/reduced,completed,22,网络工程
+S0978,Student978,male,group C,associate's degree,standard,none,21,计算机科学与技术
+S0979,Student979,male,group D,high school,standard,completed,22,信息管理与信息系统
+S0980,Student980,female,group C,associate's degree,standard,none,22,网络工程
+S0981,Student981,female,group B,high school,free/reduced,none,18,信息管理与信息系统
+S0982,Student982,male,group D,some high school,standard,none,20,计算机科学与技术
+S0983,Student983,male,group B,some high school,standard,completed,22,信息管理与信息系统
+S0984,Student984,female,group A,some college,standard,completed,22,信息管理与信息系统
+S0985,Student985,female,group C,some high school,standard,none,22,大数据技术
+S0986,Student986,male,group A,high school,standard,none,18,计算机科学与技术
+S0987,Student987,female,group C,associate's degree,standard,none,22,软件工程
+S0988,Student988,male,group E,some high school,standard,completed,22,网络工程
+S0989,Student989,female,group A,some high school,free/reduced,none,18,信息管理与信息系统
+S0990,Student990,female,group D,some college,free/reduced,completed,21,信息管理与信息系统
+S0991,Student991,male,group E,high school,free/reduced,completed,20,计算机科学与技术
+S0992,Student992,female,group B,some high school,standard,completed,20,信息管理与信息系统
+S0993,Student993,female,group D,associate's degree,free/reduced,none,22,软件工程
+S0994,Student994,female,group D,bachelor's degree,free/reduced,none,19,软件工程
+S0995,Student995,male,group A,high school,standard,none,19,信息管理与信息系统
+S0996,Student996,female,group E,master's degree,standard,completed,19,大数据技术
+S0997,Student997,male,group C,high school,free/reduced,none,18,计算机科学与技术
+S0998,Student998,female,group C,high school,free/reduced,completed,22,大数据技术
+S0999,Student999,female,group D,some college,standard,completed,19,网络工程
+S1000,Student1000,female,group D,some college,free/reduced,none,19,大数据技术
